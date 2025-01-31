@@ -1,6 +1,6 @@
 # nginx-setup-deployment
-# Configuring NGINX on a Fresh Ubuntu Server: My Experience
-
+## Configuring NGINX on a Fresh Ubuntu Server: My Experience
+## Overview
 Setting up NGINX on a fresh Ubuntu server is a fundamental task for any DevOps engineer. Recently, I had to configure NGINX on a brand-new Ubuntu instance and serve a custom HTML page as the default page. While the process is straightforward, I encountered some challenges and learned a few valuable lessons along the way. In this blog post, I’ll share my experience, step-by-step setup, and troubleshooting tips.
 
 ## 🚀 Setting Up the Environment
